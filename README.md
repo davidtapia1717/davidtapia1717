@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estamos probando GIT
 - 🌱 Aprendiendo Diseño WEB
-- 👯 Adicto al breack line
+- 👯 Adicto al line break
  <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
